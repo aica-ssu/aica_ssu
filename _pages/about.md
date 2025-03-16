@@ -40,7 +40,6 @@ Welcome to the AICA Lab website!
 Our research area includes thermal-aware/low-power system design for AI, robust memory systems, next-generation memory architecture, architecture-level thermal modeling, etc. These research topics are being actively studied in the industry as well as academia.
 
 Research Interests are
-Various Topics in Computer Architecture, Memory Systems, etc.
 Edge AI System Design/Optimization
 Robust Memory Systems
 Next-generation Memory (FeRAM, MRAM, ReRAM, PRAM, etc.)
