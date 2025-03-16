@@ -21,4 +21,31 @@ latest_posts:
   scrollable: true
   limit: 3
 ---
-<p><strong>Welcome to Advanced Intelligent Computing Architecture (AICA) Lab!</strong></p><p>차세대컴퓨팅구조 연구실에서는 AI 최적화 및 차세대 HW-SW 컴퓨팅 구조 연구에 관심있는 학부연구생/대학원생을 모집하고 있습니다. 학부연구생 / 대학원생에 관심있는 학생들은 <a href="https://sites.google.com/view/yhgong/recruiting" rel="noopener noreferrer nofollow">Recruiting</a> 페이지 내용을 참고 하시고, 공영호 교수 (<a href="mailto:yhgong@ssu.ac.kr" rel="noopener noreferrer nofollow" data-link-auto="">yhgong@ssu.ac.kr</a>) 에게 직접 문의 바랍니다</p>
+---
+layout: about
+permalink: /
+title: about
+priority: 1
+
+profile:
+  align: right
+  image: aicalogo.jpg
+
+news: true  # includes a list of news items
+social: false  # includes social icons at the bottom of the page
+---
+
+Welcome to the AICA Lab website!
+
+Our research area includes thermal-aware/low-power system design for AI, robust memory systems, next-generation memory architecture, architecture-level thermal modeling, etc. These research topics are being actively studied in the industry as well as academia.
+
+Research Interests are
+Various Topics in Computer Architecture, Memory Systems, etc.
+Edge AI System Design/Optimization
+Robust Memory Systems
+Next-generation Memory (FeRAM, MRAM, ReRAM, PRAM, etc.)
+Application-specific Performance Optimization
+Thermal-aware System Optimization
+
+
+
